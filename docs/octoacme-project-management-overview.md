@@ -14,11 +14,21 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+
+### Foundational Roles (all projects)
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA/Testing**: validate quality and acceptance criteria.
+- **Stakeholders**: provide inputs and approvals.
+
+### Specialized Roles (engage as needed)
+- **UX Designer**: responsible for end-user experience design, prototyping, and usability validation. Engage when features have significant user-interface or user-experience impact.
+- **DevOps Engineer**: manages CI/CD pipelines, deployment automation, and operational monitoring. Engage at project kickoff for infrastructure planning and throughout execution and release.
+- **Security Lead**: conducts threat modeling, reviews code and configurations for security risks, and establishes security policies. Engage during planning to set security requirements and during execution for reviews and sign-off.
+- **Data Analyst**: tracks metrics, provides data-driven insights, and helps teams make informed decisions. Engage during initiation to define success metrics and during execution to validate instrumentation.
+
+See [Roles and Personas](./octoacme-roles-and-personas.md) for full role definitions and [Cross-Functional Collaboration](./octoacme-cross-functional-collaboration.md) for interaction patterns and RACI guidance. Use the [Role Engagement Checklist](./role-engagement-checklist.md) to determine when to involve specialized roles.
 
 ## Key Artifacts
 - Project Charter / One-pager
