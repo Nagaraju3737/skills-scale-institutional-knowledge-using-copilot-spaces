@@ -23,8 +23,12 @@ OctoAcme follows a structured five-phase project lifecycle:
 | **Project Manager** | Coordinates delivery, manages schedules, tracks risks, and maintains stakeholder communications |
 | **Product Manager** | Defines outcomes, prioritizes the backlog, and measures success against business objectives |
 | **Developer** | Implements features, collaborates on design, writes tests, and ensures testability |
+| **UX Designer** | Designs end-user experiences, creates prototypes, and validates usability |
+| **DevOps Engineer** | Manages CI/CD pipelines, deployment automation, and operational monitoring |
+| **Security Lead** | Conducts threat modeling, reviews for security risks, and provides pre-release security sign-off |
+| **Data Analyst** | Tracks metrics, provides data-driven insights, and validates instrumentation |
 
-Each project has a named PM and Product Lead to eliminate ambiguity and maintain clear ownership.
+Each project has a named PM and Product Lead to eliminate ambiguity and maintain clear ownership. Specialized roles (UX Designer, DevOps Engineer, Security Lead, Data Analyst) are engaged based on project needs — see the [Role Engagement Checklist](./role-engagement-checklist.md) for guidance.
 
 ### Communication Strategy
 
@@ -64,12 +68,15 @@ OctoAcme closes each sprint, release, or milestone with a structured retrospecti
 | [Release & Deployment Guide](./octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, rollback plans, and go/no-go criteria |
 | [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action item tracking, and improvement measurement |
 | [Roles and Personas](./octoacme-roles-and-personas.md) | Detailed responsibilities and expectations for each role on the team |
+| [Cross-Functional Collaboration](./octoacme-cross-functional-collaboration.md) | Role interaction map, RACI matrix, communication protocols, and escalation paths |
+| [Role Engagement Checklist](./role-engagement-checklist.md) | Checklist for project managers to engage the right roles at the right time |
 
 ---
 
 ## Quick Start
 
 - **New team members** — Start with the [Project Management Overview](./octoacme-project-management-overview.md) and [Roles and Personas](./octoacme-roles-and-personas.md) to orient yourself.
-- **Starting a project** — Follow the [Project Initiation Guide](./octoacme-project-initiation.md) to create your project charter.
+- **Starting a project** — Follow the [Project Initiation Guide](./octoacme-project-initiation.md) to create your project charter and use the [Role Engagement Checklist](./role-engagement-checklist.md) to identify required roles.
 - **Managing risks** — Use the [Risk Management & Communication](./octoacme-risks-and-communication.md) guide to set up your Risk Register.
+- **Cross-functional coordination** — Refer to [Cross-Functional Collaboration](./octoacme-cross-functional-collaboration.md) for role interaction maps, RACI guidance, and escalation paths.
 - **Releasing software** — Review the [Release & Deployment Guide](./octoacme-release-and-deployment.md) before any production deployment.
